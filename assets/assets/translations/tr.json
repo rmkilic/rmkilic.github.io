@@ -1,0 +1,25 @@
+{
+    "general":
+    {
+        "about": "Hakkında",
+        "experience": "Deneyim",
+        "projects": "Projeler",
+        "links": "Bağlantılar",
+        "aboutMe": "Hakkımda",
+        "personalInfo": "Kişisel Bilgilerim",
+        "birthday": "Doğum Tarihi",
+        "militaryService": "Askerlik Hizmeti",
+        "phone": "Telefon",
+        "freelance": "Freelance",
+        "degree": "Derece",
+        "drivingLicence": "Sürücü Belgesi",
+        "eMail": "E-posta",
+        "city" : "Şehir",
+        "skills": "Beceriler",
+        "present": "Mevcut",
+        "resume": "Özgeçmiş",
+        "educationWork": "Eğitim ve iş tecrübelerim aşağıda belirtilmiştir",
+        "references": "Referanslar",
+        "downloadCV": "Özgeçmişi İndir"
+    }
+}

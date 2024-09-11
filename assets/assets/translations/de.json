@@ -1,0 +1,25 @@
+{
+    "general":
+    {
+        "about": "Über",
+        "experience": "Erfahrungen",
+        "projects": "Projekte",
+        "links": "Links",
+        "aboutMe": "Über mich",
+        "personalInfo": "Meine persönlichen Informationen finden Sie unten.",
+        "birthday": "Geburtstag",
+        "militaryService": "Militärdienst",
+        "phone": "Telefon",
+        "freelance": "Freiberuflich",
+        "degree": "Grad",
+        "drivingLicence": "Führerschein",
+        "eMail": "E-Mail",
+        "city" : "Stadt",
+        "skills": "Fertigkeiten",
+        "present": "Gegenwart",
+        "resume": "Lebenslauf",
+        "educationWork": "Meine Ausbildung und Berufserfahrung sind im Folgenden aufgeführt",
+        "references": "Referenzen",
+        "downloadCV": "Download Lebenslauf"
+    }
+}

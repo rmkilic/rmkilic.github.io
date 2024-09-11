@@ -1,0 +1,25 @@
+{
+    "general":
+    {
+        "about": "About",
+        "experience": "Experience",
+        "projects": "Projects",
+        "links": "Links",
+        "aboutMe": "About Me",
+        "personalInfo": "My personal information is available below.",
+        "birthday": "Birthday",
+        "militaryService": "Military Service",
+        "phone": "Phone",
+        "freelance": "Freelance",
+        "degree": "Degree",
+        "drivingLicence": "Driving Licence",
+        "eMail": "E-mail",
+        "city" : "City",
+        "skills": "Skills",
+        "present": "Present",
+        "resume":  "Resume",
+        "educationWork": "My education and work experiences are stated below",
+        "references": "References",
+        "downloadCV": "Download Resume"
+    }
+}
