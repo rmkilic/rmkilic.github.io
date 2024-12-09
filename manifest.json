@@ -1,6 +1,6 @@
 {
-    "name": "tane_tekstil_web",
-    "short_name": "tane_tekstil_web",
+    "name": "online_cv",
+    "short_name": "online_cv",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
